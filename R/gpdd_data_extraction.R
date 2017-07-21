@@ -2,7 +2,6 @@
 ##  Global Population Dynamics Databse (GPDD)  ##
 # - # - # - # - # - # - # - # - # - # - # - # - #
 
-
 ## set working directory
 getwd()
 

@@ -2,8 +2,6 @@
 ##  Global Population Dynamics Databse (GPDD)  ##
 # - # - # - # - # - # - # - # - # - # - # - # - #
 
-# Hi joey 
-
 ## set working directory
 getwd()
 

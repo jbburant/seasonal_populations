@@ -154,6 +154,7 @@ table(gpdd_limited$Hemisphere, useNA = "ifany")
 #    15445      637    80618 
 
 
+
 ## classify records as either breeding or non-breeding
 gpdd_limited <- gpdd_limited %>%
   mutate(Season = case_when(
